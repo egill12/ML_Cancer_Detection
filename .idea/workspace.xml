@@ -15,6 +15,14 @@
       <change afterPath="$PROJECT_DIR$/../../../DSTA/lab7/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../DSTA/lab7/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../DSTA/lab7/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DSTA/lab8/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DSTA/lab8/.idea/lab8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DSTA/lab8/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DSTA/lab8/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DSTA/lab8/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DSTA/lab8/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DSTA/lab8/lab8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DSTA/lab8/minproject.ipynb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../InfoSec/courseworks/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../dissertation/code/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../dissertation/code/.idea/vcs.xml" afterDir="false" />
@@ -22,13 +30,10 @@
       <change afterPath="$PROJECT_DIR$/../../../dissertation/code/layeredNN.ipynb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../dissertation/code/layeredNN.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../dissertation/code/simpleNN.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/code.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cw1_rough_work.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cw1_rough_work.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/cw1_rough_work.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pca_colon.png" beforeDir="false" afterPath="$PROJECT_DIR$/pca_colon.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +47,7 @@
         <entry file="file://$PROJECT_DIR$/cw1_rough_work.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="20" />
+              <selected id="11" />
             </state>
           </provider>
         </entry>
@@ -67,10 +72,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="736" />
+    <option name="x" value="735" />
     <option name="y" value="170" />
     <option name="width" value="1185" />
-    <option name="height" value="1103" />
+    <option name="height" value="1104" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -153,12 +158,12 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10046266" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.22804533" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22804533" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -176,7 +181,7 @@
     <entry file="file://$PROJECT_DIR$/cw1_rough_work.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="20" />
+          <selected id="11" />
         </state>
       </provider>
     </entry>
