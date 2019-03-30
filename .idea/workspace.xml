@@ -30,10 +30,15 @@
       <change afterPath="$PROJECT_DIR$/../../../dissertation/code/layeredNN.ipynb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../dissertation/code/layeredNN.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../dissertation/code/simpleNN.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cw1_rough_work.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/cw1_rough_work.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pca_colon.png" beforeDir="false" afterPath="$PROJECT_DIR$/pca_colon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imbalanced_data.png" beforeDir="false" afterPath="$PROJECT_DIR$/imbalanced_data.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +52,7 @@
         <entry file="file://$PROJECT_DIR$/cw1_rough_work.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="11" />
+              <selected id="18" />
             </state>
           </provider>
         </entry>
@@ -75,7 +80,7 @@
     <option name="x" value="735" />
     <option name="y" value="170" />
     <option name="width" value="1185" />
-    <option name="height" value="1104" />
+    <option name="height" value="1105" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -83,6 +88,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -94,7 +100,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -163,7 +168,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22804533" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22804533" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -181,7 +186,7 @@
     <entry file="file://$PROJECT_DIR$/cw1_rough_work.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="11" />
+          <selected id="18" />
         </state>
       </provider>
     </entry>
