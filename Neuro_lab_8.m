@@ -1,0 +1,38 @@
+Maxgen = 1;
+Gen = 1;
+while  Gen <= Maxgen
+    ses = generateSES;
+    % get the acutal data o train on
+    fam_data = generate_filter_trainset;
+    [PhenTw1, PhenTw2, twinpop1, twinpop2] = create_twin_pop; 
+    save_population;
+    clearvars –except Gen Maxgen
+    load('inputs.mat')
+    load('targets.mat')
+    load('gen_input.mat')
+    load('gen_output.mat')
+    load('fam_data.mat')
+    load('PhenTw1.mat')
+    for i = 1:5
+        [netip,netop,phen] = initialise_pop(i,PhenTw2);
+        hu = round(phen(1,1),0);
+        p = netip';
+        t = netop';
+        tr = divide_data(p,t);
+       [IW,LW] = init_weights_bias(tr);
+       % here we do not encode the weigths and biases, this is done in the 
+       % actual NN function using gradient descent.
+       % All we are testing here is 
+        [tr_rprop,IW,LW] = train_rprop1(IW,LW,tr,phen,hu);
+        TrainPerf = compute_train_accuracy(IW,LW,inputs,targets);
+        GenPerf = compute_generalize_accu(IW,LW,gen_input,gen_output);
+        ptTw1{i,1} = tr_rprop;
+    ptTw2{i,2} = TrainPerf;
+    ptTw2{i,3} = GenPerf;
+    tw2results(i,1) = TrainPerf(1,1);
+    tw2results(i,2) = GenPerf(1,1);
+    end
+  Gen = Gen+1;
+end
+clearvars -except ptTw1 tw1results Gen Maxgen
+open tw1results 
